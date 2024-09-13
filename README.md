@@ -1,2 +1,0 @@
-# FrontEndenJavaScript
-Sprint 1
